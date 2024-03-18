@@ -1,1 +1,1 @@
-# Python_Data_Science
+# Python programming for data science
