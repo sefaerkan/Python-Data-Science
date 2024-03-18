@@ -1,2 +1,3 @@
 # Python programming for data science
-## Pandas,Numpy, Matplotlib
+
+## I have developed data analysis and visualization projects using powerful libraries such as Pandas, Numpy, Matplotlib, and Seaborn. I focus on creating data-driven solutions and effectively visualizing data.
